@@ -1,0 +1,13 @@
+:root {
+    --main-bg-color: #eeedec;
+}
+
+body {
+    background: var(--main-bg-color);
+    letter-spacing: 0.2em;
+    font-size: 0.8em;
+}
+
+.container {
+    max-width: 400px;
+}
